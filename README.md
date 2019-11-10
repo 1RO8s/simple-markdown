@@ -1,5 +1,9 @@
 # simple-markdown
 
+- Vue.js
+- Vuetify
+- marked.js
+
 ## Project setup
 ```
 npm install
